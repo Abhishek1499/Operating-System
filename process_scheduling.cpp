@@ -1,3 +1,4 @@
+//NON PREEMPTIVE FCFS
 #include<iostream>
 using namespace std;
 #define max 10
